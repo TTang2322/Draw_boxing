@@ -62,5 +62,5 @@ def image_info(arg_file_path):
 				pass
 
 if __name__ == '__main__':
-	file_path = "./Datas/labeled_data_from_googleCloud__open.txt"
+	file_path = "./Data/labeled_data_from_googleCloud__open.txt"
 	image_info(file_path)
